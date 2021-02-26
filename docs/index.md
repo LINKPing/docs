@@ -30,4 +30,4 @@ On the interwebs you can find us (and friends) on the `#linkping` channel on `Fr
 
 Projects currently underway - ping if you want in!
 
-[Lightpedalproject](lightpedalproject.md)
+[Light Pedal project](lightpedalproject.md)
