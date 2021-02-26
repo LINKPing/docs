@@ -25,3 +25,9 @@ To build the static site do:
 ```
 $ mkdocs build
 ```
+
+To build and deploy do:
+
+```
+$ make deploy
+```
