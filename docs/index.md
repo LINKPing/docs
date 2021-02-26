@@ -20,14 +20,8 @@ Some areas that we're interested in:
 ## Who?
 
 * `rtn` node.js developer, interested in: free software, linux, emacs, micro controllers and wargames
-* `gnyrfta` physics and mathematics teacher 
+* `gnyrfta` physics and mathematics teacher
 
 ## Where?
 
 On the interwebs you can find us (and friends) on the `#linkping` channel on `Freenode`.
-
-## Projects
-
-Projects currently underway - ping if you want in!
-
-[Light Pedal project](lightpedalproject.md)
