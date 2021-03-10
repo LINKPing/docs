@@ -1,5 +1,5 @@
 deploy:
 	rm -rf site
 	mkdocs build
-	ssh linkping rm -rf /opt/linkping/docs/*
-	scp -r site/* linkping:/opt/docs
+	ssh linkping.org rm -rf /opt/docs/*
+	scp -r site/* linkping.org:/opt/docs
